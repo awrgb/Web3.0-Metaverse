@@ -4,6 +4,7 @@ import '../styles/globals.css';
 
 const MyApp = ({ Component, pageProps }) => (
   <>
+  <meta name="google-adsense-account" content="ca-pub-9443951603143592">
     <Head>
       <title>Metaversus</title>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
